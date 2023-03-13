@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\NewFolder\HomeWork19\bin\Debug\net6.0\HomeWork19.exe
+C:\Users\PC\Desktop\NewFolder\HomeWork19\bin\Debug\net6.0\HomeWork19.deps.json
+C:\Users\PC\Desktop\NewFolder\HomeWork19\bin\Debug\net6.0\HomeWork19.runtimeconfig.json
+C:\Users\PC\Desktop\NewFolder\HomeWork19\bin\Debug\net6.0\HomeWork19.dll
+C:\Users\PC\Desktop\NewFolder\HomeWork19\bin\Debug\net6.0\HomeWork19.pdb
+C:\Users\PC\Desktop\NewFolder\HomeWork19\obj\Debug\net6.0\HomeWork19.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\NewFolder\HomeWork19\obj\Debug\net6.0\HomeWork19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\NewFolder\HomeWork19\obj\Debug\net6.0\HomeWork19.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\NewFolder\HomeWork19\obj\Debug\net6.0\HomeWork19.AssemblyInfo.cs
+C:\Users\PC\Desktop\NewFolder\HomeWork19\obj\Debug\net6.0\HomeWork19.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\NewFolder\HomeWork19\obj\Debug\net6.0\HomeWork19.dll
+C:\Users\PC\Desktop\NewFolder\HomeWork19\obj\Debug\net6.0\refint\HomeWork19.dll
+C:\Users\PC\Desktop\NewFolder\HomeWork19\obj\Debug\net6.0\HomeWork19.pdb
+C:\Users\PC\Desktop\NewFolder\HomeWork19\obj\Debug\net6.0\HomeWork19.genruntimeconfig.cache
+C:\Users\PC\Desktop\NewFolder\HomeWork19\obj\Debug\net6.0\ref\HomeWork19.dll
