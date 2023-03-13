@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\NewFolder\HomeWork21\bin\Debug\net6.0\HomeWork21.exe
+C:\Users\PC\Desktop\NewFolder\HomeWork21\bin\Debug\net6.0\HomeWork21.deps.json
+C:\Users\PC\Desktop\NewFolder\HomeWork21\bin\Debug\net6.0\HomeWork21.runtimeconfig.json
+C:\Users\PC\Desktop\NewFolder\HomeWork21\bin\Debug\net6.0\HomeWork21.dll
+C:\Users\PC\Desktop\NewFolder\HomeWork21\bin\Debug\net6.0\HomeWork21.pdb
+C:\Users\PC\Desktop\NewFolder\HomeWork21\obj\Debug\net6.0\HomeWork21.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\NewFolder\HomeWork21\obj\Debug\net6.0\HomeWork21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\NewFolder\HomeWork21\obj\Debug\net6.0\HomeWork21.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\NewFolder\HomeWork21\obj\Debug\net6.0\HomeWork21.AssemblyInfo.cs
+C:\Users\PC\Desktop\NewFolder\HomeWork21\obj\Debug\net6.0\HomeWork21.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\NewFolder\HomeWork21\obj\Debug\net6.0\HomeWork21.dll
+C:\Users\PC\Desktop\NewFolder\HomeWork21\obj\Debug\net6.0\refint\HomeWork21.dll
+C:\Users\PC\Desktop\NewFolder\HomeWork21\obj\Debug\net6.0\HomeWork21.pdb
+C:\Users\PC\Desktop\NewFolder\HomeWork21\obj\Debug\net6.0\HomeWork21.genruntimeconfig.cache
+C:\Users\PC\Desktop\NewFolder\HomeWork21\obj\Debug\net6.0\ref\HomeWork21.dll
