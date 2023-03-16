@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\NewFolder\HomeWork23\bin\Debug\net6.0\HomeWork23.exe
+C:\Users\PC\Desktop\NewFolder\HomeWork23\bin\Debug\net6.0\HomeWork23.deps.json
+C:\Users\PC\Desktop\NewFolder\HomeWork23\bin\Debug\net6.0\HomeWork23.runtimeconfig.json
+C:\Users\PC\Desktop\NewFolder\HomeWork23\bin\Debug\net6.0\HomeWork23.dll
+C:\Users\PC\Desktop\NewFolder\HomeWork23\bin\Debug\net6.0\HomeWork23.pdb
+C:\Users\PC\Desktop\NewFolder\HomeWork23\obj\Debug\net6.0\HomeWork23.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\NewFolder\HomeWork23\obj\Debug\net6.0\HomeWork23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\NewFolder\HomeWork23\obj\Debug\net6.0\HomeWork23.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\NewFolder\HomeWork23\obj\Debug\net6.0\HomeWork23.AssemblyInfo.cs
+C:\Users\PC\Desktop\NewFolder\HomeWork23\obj\Debug\net6.0\HomeWork23.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\NewFolder\HomeWork23\obj\Debug\net6.0\HomeWork23.dll
+C:\Users\PC\Desktop\NewFolder\HomeWork23\obj\Debug\net6.0\refint\HomeWork23.dll
+C:\Users\PC\Desktop\NewFolder\HomeWork23\obj\Debug\net6.0\HomeWork23.pdb
+C:\Users\PC\Desktop\NewFolder\HomeWork23\obj\Debug\net6.0\HomeWork23.genruntimeconfig.cache
+C:\Users\PC\Desktop\NewFolder\HomeWork23\obj\Debug\net6.0\ref\HomeWork23.dll
