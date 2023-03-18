@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\NewFolder\HomeWork25\bin\Debug\net6.0\HomeWork25.exe
+C:\Users\PC\Desktop\NewFolder\HomeWork25\bin\Debug\net6.0\HomeWork25.deps.json
+C:\Users\PC\Desktop\NewFolder\HomeWork25\bin\Debug\net6.0\HomeWork25.runtimeconfig.json
+C:\Users\PC\Desktop\NewFolder\HomeWork25\bin\Debug\net6.0\HomeWork25.dll
+C:\Users\PC\Desktop\NewFolder\HomeWork25\bin\Debug\net6.0\HomeWork25.pdb
+C:\Users\PC\Desktop\NewFolder\HomeWork25\obj\Debug\net6.0\HomeWork25.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\NewFolder\HomeWork25\obj\Debug\net6.0\HomeWork25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\NewFolder\HomeWork25\obj\Debug\net6.0\HomeWork25.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\NewFolder\HomeWork25\obj\Debug\net6.0\HomeWork25.AssemblyInfo.cs
+C:\Users\PC\Desktop\NewFolder\HomeWork25\obj\Debug\net6.0\HomeWork25.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\NewFolder\HomeWork25\obj\Debug\net6.0\HomeWork25.dll
+C:\Users\PC\Desktop\NewFolder\HomeWork25\obj\Debug\net6.0\refint\HomeWork25.dll
+C:\Users\PC\Desktop\NewFolder\HomeWork25\obj\Debug\net6.0\HomeWork25.pdb
+C:\Users\PC\Desktop\NewFolder\HomeWork25\obj\Debug\net6.0\HomeWork25.genruntimeconfig.cache
+C:\Users\PC\Desktop\NewFolder\HomeWork25\obj\Debug\net6.0\ref\HomeWork25.dll
